@@ -2,10 +2,6 @@
 
 A **clean, animated, and professional Flutter onboarding experience** — built with **pure Flutter & Dart**, following best practices for maintainability and performance.
 
-<p align="center">
-  <img src="assets/demo_preview.png" alt="Onboarding UI Preview" width="600"/>
-</p>
-
 ---
 
 ## 🧭 Overview
